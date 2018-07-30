@@ -4,3 +4,4 @@
 (package-file "dart-mode.el")
 
 (depends-on "ert-runner")
+(depends-on "faceup")
